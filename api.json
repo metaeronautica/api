@@ -1,4 +1,5 @@
 {
+  "maintitle":"lfjlkfdg",
   "image1": [
     {
       "code": "001",
@@ -6,6 +7,14 @@
       "imagecoment": "esta es una imagen de la imagen principal",
       "imagename": "image1",
       "imagenamefile": "image1.png",
+      "datecreate": "2023-04-14"
+    },
+    {
+      "code": "002",
+      "imagetitle": "imagen alunos",
+      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagename": "image2",
+      "imagenamefile": "image2.jpg",
       "datecreate": "2023-04-14"
     }
   ],
