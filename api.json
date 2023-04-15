@@ -1,0 +1,32 @@
+{
+  "image1": [
+    {
+      "code": "001",
+      "imagetitle": "imagen principal",
+      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagename": "image1",
+      "imagenamefile": "image1.png",
+      "datecreate": "2023-04-14"
+    }
+  ],
+  "images2": [
+    {
+      "code": "001",
+      "imagetitle": "jgkdsfjg",
+      "imagecoment": "kshfkgsjfdg fgldfkg lsdfjg sldfgsdgj sdlfjg",
+      "imagename": "image1",
+      "imagenamefile": "shfksjdf.png",
+      "datecreate": "2023-04-14"
+    }
+  ],
+  "images3": [
+    {
+      "code": "001",
+      "imagetitle": "jgkdsfjg",
+      "imagecoment": "kshfkgsjfdg fgldfkg lsdfjg sldfgsdgj sdlfjg",
+      "imagename": "image1",
+      "imagenamefile": "shfksjdf.png",
+      "datecreate": "2023-04-14"
+    }
+  ]
+}
