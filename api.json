@@ -1,76 +1,78 @@
 {
+  "url":"https://meteorologiaaeronautica.github.io/api/api.json",
+
   "title1": "Meteorología Aeronáutica",
-  "coment1": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
+  "comment1": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
 
   "title2": "Personal Academico",
-  "coment2": "El personal académico de meteorología aeronáutica es un grupo de profesionales especializados en la predicción y análisis de las condiciones meteorológicas que pueden afectar a la aviación. Este personal incluye meteorólogos, físicos atmosféricos y otros especialistas en ciencias de la atmósfera, quienes aplican su conocimiento y experiencia para proporcionar información precisa y oportuna sobre el clima y las condiciones meteorológicas en los aeropuertos y en la ruta de los aviones. Además, también pueden trabajar en investigación y desarrollo de nuevas técnicas y herramientas para mejorar la predicción del tiempo y la seguridad de los vuelos.",
+  "comment2": "El personal académico de meteorología aeronáutica es un grupo de profesionales especializados en la predicción y análisis de las condiciones meteorológicas que pueden afectar a la aviación. Este personal incluye meteorólogos, físicos atmosféricos y otros especialistas en ciencias de la atmósfera, quienes aplican su conocimiento y experiencia para proporcionar información precisa y oportuna sobre el clima y las condiciones meteorológicas en los aeropuertos y en la ruta de los aviones. Además, también pueden trabajar en investigación y desarrollo de nuevas técnicas y herramientas para mejorar la predicción del tiempo y la seguridad de los vuelos.",
 
   "title3": "Entre las nubes: una colección de formaciones nubosas fascinantes",
-  "coment3": "Un álbum de imágenes impresionantes de formaciones nubosas capturadas desde la perspectiva de la meteorología aeronáutica. Desde la cabina de los aviones y desde la atmósfera superior, estas vistas únicas nos recuerdan la belleza y complejidad de la atmósfera y la importancia del trabajo de los expertos en meteorología aeronáutica.",
+  "comment3": "Un álbum de imágenes impresionantes de formaciones nubosas capturadas desde la perspectiva de la meteorología aeronáutica. Desde la cabina de los aviones y desde la atmósfera superior, estas vistas únicas nos recuerdan la belleza y complejidad de la atmósfera y la importancia del trabajo de los expertos en meteorología aeronáutica.",
 
   "images1": [
     {
       "imagetitle": "Imagen Pinripal 1",
-      "imagecoment": "Esta es una imagen de la Imagen Pinripal 1",
+      "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
       "imagefile": "image11.jpg"
     },
     {
       "imagetitle": "Imagen Pinripal 1",
-      "imagecoment": "Esta es una imagen de la Imagen Pinripal 1",
+      "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
       "imagefile": "image12.jpg"
     },
     {
       "imagetitle": "Imagen Pinripal 1",
-      "imagecoment": "Esta es una imagen de la Imagen Pinripal 1",
+      "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
       "imagefile": "image13.jpg"
     }
   ],
   "images2": [
     {
       "imagetitle": "Lic. Yomar Mayta",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image21.jpg"
     },
     {
       "imagetitle": "imagen principal",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image22.jpg"
     },
     {
       "imagetitle": "imagen principal",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image23.jpg"
     }
   ],
   "images3": [
     {
       "imagetitle": "imagen principal",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image31.jpg"
     },
     {
       "imagetitle": "imagen principal",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image32.jpg"
     },
     {
       "imagetitle": "imagen principal",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image33.jpg"
     },
     {
       "imagetitle": "imagen principal",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image34.jpg"
     },
     {
       "imagetitle": "imagen principal",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image35.jpg"
     },
     {
       "imagetitle": "imagen principal",
-      "imagecoment": "esta es una imagen de la imagen principal",
+      "imagecomment": "esta es una imagen de la imagen principal",
       "imagefile": "image36.jpg"
     }
   ]
