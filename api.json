@@ -12,19 +12,19 @@
 
   "images1": [
     {
-      "imagetitle": "Imagen Pinripal 1",
+      "imagetitle": "ESTUDIANTES DE METEOROLOGIA",
       "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
-      "imagefile": "image11.jpg"
+      "imagefile": "CIMAG1.jpg"
     },
     {
       "imagetitle": "Imagen Pinripal 1",
       "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
-      "imagefile": "image12.jpg"
+      "imagefile": "CIMAG2.jpg"
     },
     {
       "imagetitle": "Imagen Pinripal 1",
       "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
-      "imagefile": "image13.jpg"
+      "imagefile": "CIMAG3.jpg"
     }
   ],
   "images2": [
