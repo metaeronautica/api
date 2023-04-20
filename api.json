@@ -12,19 +12,24 @@
 
   "images1": [
     {
-      "imagetitle": "ESTUDIANTES DE METEOROLOGIA",
-      "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
-      "imagefile": "CIMAG1.jpg"
+      "imagetitle": "ESTUDIANTES DE LA CARRERA TÉCNICO EN METEOROLOGIA AERONÁUTICA INICIAL CLASE IV",
+      "imagecomment": "fotografia en el Instituto Nacional de Aviació Civil",
+      "imagefile": "IM-3.jpg"
     },
     {
-      "imagetitle": "Imagen Pinripal 1",
-      "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
-      "imagefile": "CIMAG2.jpg"
+      "imagetitle": "DÍA DEL BAUTIZO A LOS ESTUDIANTES DE LA CARRERA DE METEOROLOGÍA",
+      "imagecomment": "Un dia de confraternización con los amigos",
+      "imagefile": "IM-2.jpg"
     },
     {
-      "imagetitle": "Imagen Pinripal 1",
-      "imagecomment": "Esta es una imagen de la Imagen Pinripal 1",
-      "imagefile": "CIMAG3.jpg"
+      "imagetitle": "SALIDA DE PARA REALIZAR EL FOD",
+      "imagecomment": "Salida para realizar busqueda de objetos peligrosos para las aeronaves",
+      "imagefile": "IM-5.jpg"
+    },
+    {
+      "imagetitle": "SALIDA A LA ESTACION METEOROLÓGICA",
+      "imagecomment": "Visita a la estación meteorológica, para las indicaciones del instructor.  ",
+      "imagefile": "IM-4.jpg"
     }
   ],
   "images2": [
