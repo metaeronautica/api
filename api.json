@@ -48,32 +48,56 @@
     {
       "imagetitle": "imagen principal",
       "imagecomment": "esta es una imagen de la imagen principal",
-      "imagefile": "image31.jpg"
+      "imagefile": "image31.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
     },
     {
       "imagetitle": "imagen principal",
       "imagecomment": "esta es una imagen de la imagen principal",
-      "imagefile": "image32.jpg"
+      "imagefile": "image32.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
     },
     {
       "imagetitle": "imagen principal",
       "imagecomment": "esta es una imagen de la imagen principal",
-      "imagefile": "image33.jpg"
+      "imagefile": "image33.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
     },
     {
       "imagetitle": "imagen principal",
       "imagecomment": "esta es una imagen de la imagen principal",
-      "imagefile": "image34.jpg"
+      "imagefile": "image34.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
     },
     {
       "imagetitle": "imagen principal",
       "imagecomment": "esta es una imagen de la imagen principal",
-      "imagefile": "image35.jpg"
+      "imagefile": "image35.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
     },
     {
       "imagetitle": "imagen principal",
       "imagecomment": "esta es una imagen de la imagen principal",
-      "imagefile": "image36.jpg"
+      "imagefile": "image36.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
     }
   ]
 }
