@@ -11,7 +11,10 @@
   "comment3": "Un álbum de imágenes impresionantes de formaciones nubosas capturadas desde la perspectiva de la meteorología aeronáutica. Desde la cabina de los aviones y desde la atmósfera superior, estas vistas únicas nos recuerdan la belleza y complejidad de la atmósfera y la importancia del trabajo de los expertos en meteorología aeronáutica.",
 
   "infotitle":"Meteorología Aeronáutica",
-  "infocomment":"Clase IV. Meteorología Aeronáutica Nivel Inicial<br>Email: met.aeronautica.0423@gmail.com",
+  "infocomment": [
+    "Clase IV. Meteorología Aeronáutica Nivel Inicial.",
+    "Email: met.aeronautica.0423@gmail.com"
+  ],
 
   "images1": [
     {
