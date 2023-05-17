@@ -7,10 +7,10 @@
   "title2": "Personal Academico",
   "comment2": "El personal académico de meteorología aeronáutica es un grupo de profesionales especializados en la predicción y análisis de las condiciones meteorológicas que pueden afectar a la aviación. Este personal incluye meteorólogos, físicos atmosféricos y otros especialistas en ciencias de la atmósfera, quienes aplican su conocimiento y experiencia para proporcionar información precisa y oportuna sobre el clima y las condiciones meteorológicas en los aeropuertos y en la ruta de los aviones. Además, también pueden trabajar en investigación y desarrollo de nuevas técnicas y herramientas para mejorar la predicción del tiempo y la seguridad de los vuelos.",
 
-  "title3": "Entre las nubes: una colección de formaciones nubosas fascinantes",
+  "title3": "COLECCIÓN DE NUBES DEL DEPARTAMEMTO DE COCHABAMBA EN BOLIVIA",
   "comment3": "Un álbum de imágenes impresionantes de formaciones nubosas capturadas desde la perspectiva de la meteorología aeronáutica. Desde la cabina de los aviones y desde la atmósfera superior, estas vistas únicas nos recuerdan la belleza y complejidad de la atmósfera y la importancia del trabajo de los expertos en meteorología aeronáutica.",
 
-  "infotitle":"Meteorología Aeronáutica",
+  "infotitle":"INSTITUTO NACIONAL DE AVIACIÓN CIVIL",
   "infocomment": [
     "Clase IV. Meteorología Aeronáutica Nivel Inicial.",
     "Campus Cochabamba: Zona Jaihuayco, Esquina Teniente Monasterios, Final Ayopaya N. 1308",
@@ -20,8 +20,8 @@
   "images1": [
     {
       "imagetitle": "ESTUDIANTES DE LA CARRERA TÉCNICO EN METEOROLOGIA AERONÁUTICA INICIAL CLASE IV",
-      "imagecomment": "fotografia en el Instituto Nacional de Aviació Civil",
-      "imagefile": "IM-3.jpg"
+      "imagecomment": "Fotografía en el Instituto Nacional de Aviación Civil",
+      "imagefile": "IM-7.jpg"
     },
     {
       "imagetitle": "DÍA DEL BAUTIZO A LOS ESTUDIANTES DE LA CARRERA DE METEOROLOGÍA",
@@ -31,55 +31,86 @@
     {
       "imagetitle": "SALIDA DE PARA REALIZAR EL FOD",
       "imagecomment": "Salida para realizar busqueda de objetos peligrosos para las aeronaves",
-      "imagefile": "IM-5.jpg"
+      "imagefile": "IM-8.jpg"
     },
     {
       "imagetitle": "SALIDA A LA ESTACION METEOROLÓGICA",
       "imagecomment": "Visita a la estación meteorológica, para las indicaciones del instructor.  ",
-      "imagefile": "IM-4.jpg"
+      "imagefile": "IM-9.jpg"
     }
   ],
   "images2": [
     {
-      "imagetitle": "Lic. Oscar Quispe",
-      "imagecomment": "esta es una imagen de la imagen principal",
+      "imagetitle": "MET. Dardo Melgar Roca",
+      "imagecomment": "Responsable Meteorología INAC",
       "imagefile": "image21.jpg"
     },
     {
-      "imagetitle": "imagen principal",
-      "imagecomment": "esta es una imagen de la imagen principal",
+      "imagetitle": "LIC AER. Luis Ticona Patzi",
+      "imagecomment": "Instructor de la carrera de Meteorología",
       "imagefile": "image22.jpg"
     }
   ],
   "images3": [
     {
-      "imagetitle": "imagen principal test",
-      "imagecomment": "esta es una imagen de la imagen principal",
-      "imagefile": "image31.jpg",
+      "imagetitle": "Estratos - ST",
+      "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+      "imagefile": "ST.jpg",
       "imageimages": [
         { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
         { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
         { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
         { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
       ]
     },
     {
-      "imagetitle": "imagen principal",
-      "imagecomment": "esta es una imagen de la imagen principal",
-      "imagefile": "image32.jpg",
+      "imagetitle": "Estratocúmulos - SC",
+      "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+      "imagefile": "SC.jpg",
       "imageimages": [
         { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
         { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
       ]
     },
     {
-      "imagetitle": "imagen principal",
-      "imagecomment": "esta es una imagen de la imagen principal",
+      "imagetitle": "Cúmulos - CU",
+      "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+      "imagefile": "CU2.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
+    },
+    {
+      "imagetitle": "Cumulonimbos - CB",
+      "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+      "imagefile": "CB2.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
+    },
+    {
+      "imagetitle": "Nimbostratos - NS",
+      "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
+      "imagefile": "NS.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
+    },
+    {
+      "imagetitle": "Altoestratos - AS",
+      "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
+      "imagefile": "AS2.jpg",
+      "imageimages": [
+        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
+        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+      ]
+    },
+    {
+      "imagetitle": "Altocúmulos - AC",
+      "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
       "imagefile": "image33.jpg",
       "imageimages": [
         { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
@@ -87,8 +118,8 @@
       ]
     },
     {
-      "imagetitle": "imagen principal",
-      "imagecomment": "esta es una imagen de la imagen principal",
+      "imagetitle": "Cirrus - CI",
+      "imagecomment": "Nubes altas, por encima de los 6.000 metros",
       "imagefile": "image34.jpg",
       "imageimages": [
         { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
@@ -96,8 +127,8 @@
       ]
     },
     {
-      "imagetitle": "imagen principal",
-      "imagecomment": "esta es una imagen de la imagen principal",
+      "imagetitle": "Cirrostratos - CS",
+      "imagecomment": "Nubes altas, por encima de los 6.000 metros",
       "imagefile": "image35.jpg",
       "imageimages": [
         { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
@@ -105,8 +136,8 @@
       ]
     },
     {
-      "imagetitle": "imagen principal",
-      "imagecomment": "esta es una imagen de la imagen principal",
+      "imagetitle": "Cirrocúmulos - CC",
+      "imagecomment": "Nubes altas, por encima de los 6.000 metros",
       "imagefile": "image36.jpg",
       "imageimages": [
         { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
