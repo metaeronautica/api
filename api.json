@@ -75,7 +75,7 @@
     {
       "imagetitle": "Cúmulos - CU",
       "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-      "imagefile": "CU2.jpg",
+      "imagefile": "CU.jpg",
       "imageimages": [
         { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
         { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
@@ -131,8 +131,8 @@
       "imagecomment": "Nubes altas, por encima de los 6.000 metros",
       "imagefile": "image35.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"","comment":"Tomada: Henry Cortez""Fecha: 07/05/23", "file":"TCI-1.jpg"},
+        { "title":"title 2", "comment":"", "file":"image22.jpg"}
       ]
     },
     {
