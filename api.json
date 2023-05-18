@@ -36,7 +36,7 @@
     {
       "imagetitle": "SALIDA A LA ESTACION METEOROLÓGICA",
       "imagecomment": "Visita a la estación meteorológica, para las indicaciones del instructor.  ",
-      "imagefile": "IM-9.jpg"
+      "imagefile": "IM-10.jpg"
     }
   ],
   "images2": [
@@ -57,10 +57,7 @@
       "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
       "imagefile": "ST.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"comentario 1", "file":"image22.jpg"}
       ]
     },
     {
@@ -68,8 +65,8 @@
       "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
       "imagefile": "SC.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"Tomada por: Franz Jaime Ayaviri, Fecha: 06/05/23, Hora: 16:30 HBO - 20:30 UTC, Lugar de captura: Cerca al Instituto Nacional de Aviación Civil", "file":"SC-1.jpg"},
+        { "title":"Descripción", "comment":"Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco", "file":"SC-2.jpg"}
       ]
     },
     {
@@ -77,8 +74,7 @@
       "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
       "imagefile": "CU.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"Tomada por: Oriana Arce Gualeve, Fecha: 23/01/23, Hora: 17:30 HBO - 21:30 UTC, Lugar de captura: Cerca al aeropuerto de Cochabamba (Jorge Wilsterman)", "file":"CU-1.jpg"}
       ]
     },
     {
@@ -86,8 +82,10 @@
       "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
       "imagefile": "CB2.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"Tomada por: Jorge Jaime Gongora, Fecha: 05/05/23, Hora: 16:00 HBO - 20:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Centro de Cochabamba C/Oquendo.Esq/Bolívar. Tipo de nube: CB del tipo 2", "file":"CB-1.jpg"},
+        { "title":"Descripción", "comment":"Tomada por: Miguel Angel Mitma Morales, Fecha: 05/05/23, Hora: 14:35 HBO - 18:35 UTC, Dirección de las nubes: Del S hacia el N, Lugar de captura: Z/Sud OTB mineros San Juan", "file":"CB-2.jpg"},
+        { "title":"Descripción", "comment":"Tomada por: Miguel Angel Mitma Morales, Fecha: 08/05/23, Hora: 14:50 HBO - 20:50 UTC, Dirección de las nubes: Del S hacia el NW, Lugar de captura: Z/Sud OTB mineros San Juan, Tipo de nube: CB del tipo 2", "file":"CB-3.jpg"},
+        { "title":"Descripción", "comment":"Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Dirección de las nubes: Del E hacia el W, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco", "file":"CB-4.jpg"}
       ]
     },
     {
@@ -95,8 +93,7 @@
       "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
       "imagefile": "NS.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"comentario 1", "file":"image22.jpg"}
       ]
     },
     {
@@ -104,44 +101,40 @@
       "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
       "imagefile": "AS2.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"comentario 1", "file":"image22.jpg"}
       ]
     },
     {
       "imagetitle": "Altocúmulos - AC",
       "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
-      "imagefile": "image33.jpg",
+      "imagefile": "AC.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11:30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen", "file":"AC-1.jpg"}
       ]
     },
     {
       "imagetitle": "Cirrus - CI",
       "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-      "imagefile": "image34.jpg",
+      "imagefile": "CI.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"comentario 1", "file":"image22.jpg"}
       ]
     },
     {
       "imagetitle": "Cirrostratos - CS",
       "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-      "imagefile": "image35.jpg",
+      "imagefile": "CS.jpg",
       "imageimages": [
-        { "title":"Descripción","comment":"Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de Foto: Parque Tunari", "file":"cs-1.jpg"},
-        { "title":"title 2", "comment":"", "file":"image22.jpg"}
+        { "title":"Descripción","comment":"Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari", "file":"cs-1.jpg"}
       ]
     },
     {
       "imagetitle": "Cirrocúmulos - CC",
       "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-      "imagefile": "image36.jpg",
+      "imagefile": "CC.jpg",
       "imageimages": [
-        { "title":"title 1", "comment":"comentario 1", "file":"image22.jpg"},
-        { "title":"title 2", "comment":"comentario 2", "file":"image22.jpg"}
+        { "title":"Descripción", "comment":"Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17:00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil", "file":"CC-1.jpg"}
+        
       ]
     }
   ]
