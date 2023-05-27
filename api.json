@@ -1,141 +1,244 @@
 {
-  "url":"https://meteorologiaaeronautica.github.io/api/api.json",
+  "urlapi": "https://meteorologiaaeronautica.github.io/api/api.json",
 
-  "title1": "Meteorología Aeronáutica",
-  "comment1": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
+  "main": {
+    "title1": "Meteorología Aeronáutica",
+    "comment1": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
 
-  "title2": "Personal Academico",
-  "comment2": "El personal académico de meteorología aeronáutica es un grupo de profesionales especializados en la predicción y análisis de las condiciones meteorológicas que pueden afectar a la aviación.",
+    "title2": "Personal Academico",
+    "comment2": "El personal académico de meteorología aeronáutica es un grupo de profesionales especializados en la predicción y análisis de las condiciones meteorológicas que pueden afectar a la aviación.",
 
-  "title3": "COLECCIÓN DE NUBES DEL DEPARTAMEMTO DE COCHABAMBA EN BOLIVIA",
-  "comment3": "Un álbum de imágenes impresionantes de formaciones nubosas capturadas desde la perspectiva de la meteorología aeronáutica. Desde la cabina de los aviones y desde la superficie, estas vistas únicas nos recuerdan la belleza y complejidad de la atmósfera y la importancia del trabajo de los expertos en meteorología aeronáutica. Para lograr realizar este albúm de colección de fotos de las nubes, se tendrá la participación de los estudiantes de la carrera Meteorología Aeronáutica nivel inicial Clase IV",
+    "title3": "COLECCIÓN DE NUBES DEL DEPARTAMEMTO DE COCHABAMBA EN BOLIVIA",
+    "comment3": "Un álbum de imágenes impresionantes de formaciones nubosas capturadas desde la perspectiva de la meteorología aeronáutica. Desde la cabina de los aviones y desde la superficie, estas vistas únicas nos recuerdan la belleza y complejidad de la atmósfera y la importancia del trabajo de los expertos en meteorología aeronáutica. Para lograr realizar este albúm de colección de fotos de las nubes, se tendrá la participación de los estudiantes de la carrera Meteorología Aeronáutica nivel inicial Clase IV",
 
-  "infotitle":"INSTITUTO NACIONAL DE AVIACIÓN CIVIL",
-  "infocomment": [
-    "Clase IV. Meteorología Aeronáutica Nivel Inicial.",
-    "Campus Cochabamba: Zona Jaihuayco, Esquina Teniente Monasterios, Final Ayopaya N. 1308",
-    "Email: met.aeronautica.0423@gmail.com"
-  ],
+    "infotitle": "INSTITUTO NACIONAL DE AVIACIÓN CIVIL",
+    "infocomment": [
+      "Clase IV. Meteorología Aeronáutica Nivel Inicial.",
+      "Campus Cochabamba: Zona Jaihuayco, Esquina Teniente Monasterios, Final Ayopaya N. 1308",
+      "Email: met.aeronautica.0423@gmail.com"
+    ],
 
-  "images1": [
-    {
-      "imagetitle": "ESTUDIANTES DE LA CARRERA TÉCNICO EN METEOROLOGIA AERONÁUTICA INICIAL CLASE IV",
-      "imagecomment": "Fotografía en el Instituto Nacional de Aviación Civil",
-      "imagefile": "IM-7.jpg"
-    },
-    {
-      "imagetitle": "DÍA DEL BAUTIZO A LOS ESTUDIANTES DE LA CARRERA DE METEOROLOGÍA",
-      "imagecomment": "Un dia de confraternización con los amigos",
-      "imagefile": "IM-6.jpg"
-    },
-    {
-      "imagetitle": "SALIDA DE PARA REALIZAR EL FOD",
-      "imagecomment": "Salida para realizar busqueda de objetos peligrosos para las aeronaves",
-      "imagefile": "IM-8.jpg"
-    },
-    {
-      "imagetitle": "SALIDA A LA ESTACION METEOROLÓGICA",
-      "imagecomment": "Visita a la estación meteorológica, para las indicaciones del instructor.  ",
-      "imagefile": "IM-10.jpg"
-    }
-  ],
-  "images2": [
-    {
+    "images1": [
+      {
+        "imagetitle": "ESTUDIANTES DE LA CARRERA TÉCNICO EN METEOROLOGIA AERONÁUTICA INICIAL CLASE IV",
+        "imagecomment": "Fotografía en el Instituto Nacional de Aviación Civil",
+        "imagefile": "images1/IM-7.jpg"
+      },
+      {
+        "imagetitle": "DÍA DEL BAUTIZO A LOS ESTUDIANTES DE LA CARRERA DE METEOROLOGÍA",
+        "imagecomment": "Un dia de confraternización con los amigos",
+        "imagefile": "images1/IM-6.jpg"
+      },
+      {
+        "imagetitle": "SALIDA DE PARA REALIZAR EL FOD",
+        "imagecomment": "Salida para realizar busqueda de objetos peligrosos para las aeronaves",
+        "imagefile": "images1/IM-8.jpg"
+      },
+      {
+        "imagetitle": "SALIDA A LA ESTACION METEOROLÓGICA",
+        "imagecomment": "Visita a la estación meteorológica, para las indicaciones del instructor.  ",
+        "imagefile": "images1/IM-10.jpg"
+      }
+    ],
+    "images2": [
+      {
+        "imagetitle": "MET. Dardo Melgar Roca",
+        "imagecomment": "Responsable Meteorología INAC",
+        "imagefile": "images2/image21.jpg"
+      },
+      {
+        "imagetitle": "LIC AER. Luis Ticona Patzi",
+        "imagecomment": "Instructor de la carrera de Meteorología",
+        "imagefile": "images2/image22.jpg"
+      }
+    ],
+    "images3": [
+      {
+        "imagetitle": "Estratos - ST",
+        "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+        "imagefile": "images3/ST.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "comentario 1",
+            "file": "images3/images3/image22.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Estratocúmulos - SC",
+        "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+        "imagefile": "images3/SC.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Franz Jaime Ayaviri, Fecha: 06/05/23, Hora: 16:30 HBO - 20:30 UTC, Lugar de captura: Cerca al Instituto Nacional de Aviación Civil",
+            "file": "images3/SC-1.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
+            "file": "images3/SC-2.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Cúmulos - CU",
+        "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+        "imagefile": "images3/CU.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Oriana Arce Gualeve, Fecha: 23/01/23, Hora: 17:30 HBO - 21:30 UTC, Lugar de captura: Cerca al aeropuerto de Cochabamba (Jorge Wilsterman)",
+            "file": "images3/images3/CU-1.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Cumulonimbos - CB",
+        "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+        "imagefile": "images3/CB2.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Jorge Jaime Gongora, Fecha: 05/05/23, Hora: 16:00 HBO - 20:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Centro de Cochabamba C/Oquendo.Esq/Bolívar. Tipo de nube: CB del tipo 2",
+            "file": "images3/CB-1.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 05/05/23, Hora: 14:35 HBO - 18:35 UTC, Dirección de las nubes: Del S hacia el N, Lugar de captura: Z/Sud OTB mineros San Juan",
+            "file": "images3/CB-2.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 08/05/23, Hora: 14:50 HBO - 20:50 UTC, Dirección de las nubes: Del S hacia el NW, Lugar de captura: Z/Sud OTB mineros San Juan, Tipo de nube: CB del tipo 2",
+            "file": "images3/CB-3.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Dirección de las nubes: Del E hacia el W, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
+            "file": "images3/CB-4.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Nimbostratos - NS",
+        "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
+        "imagefile": "images3/NS.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "comentario 1",
+            "file": "images3/image22.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Altoestratos - AS",
+        "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
+        "imagefile": "images3/AS2.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "comentario 1",
+            "file": "images3/image22.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Altocúmulos - AC",
+        "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
+        "imagefile": "images3/AC.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11:30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen",
+            "file": "images3/AC-1.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Cirrus - CI",
+        "imagecomment": "Nubes altas, por encima de los 6.000 metros",
+        "imagefile": "images3/CI.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "comentario 1",
+            "file": "images3/image22.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Cirrostratos - CS",
+        "imagecomment": "Nubes altas, por encima de los 6.000 metros",
+        "imagefile": "images3/CS.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari",
+            "file": "images3/cs-1.jpg"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Cirrocúmulos - CC",
+        "imagecomment": "Nubes altas, por encima de los 6.000 metros",
+        "imagefile": "images3/CC.jpg",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17:00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil",
+            "file": "images3/CC-1.jpg"
+          }
+        ]
+      }
+    ]
+  },
+
+  "nosotros": {
+    "title1": "Sobre nosotros",
+    "title2": "Meteorología Aeronáutica",
+    "comment1": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
+    "comment2": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
+    "image": {
       "imagetitle": "MET. Dardo Melgar Roca",
       "imagecomment": "Responsable Meteorología INAC",
       "imagefile": "image21.jpg"
-    },
-    {
-      "imagetitle": "LIC AER. Luis Ticona Patzi",
-      "imagecomment": "Instructor de la carrera de Meteorología",
-      "imagefile": "image22.jpg"
     }
-  ],
-  "images3": [
+  },
+
+  "contact": {
+    "title1": "Contacto",
+    "title2": "Meteorología Aeronáutica",
+    "comment1": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
+    "comment2": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
+    "infotitle": "INSTITUTO NACIONAL DE AVIACIÓN CIVIL",
+    "infocomment": [
+      "Clase IV. Meteorología Aeronáutica Nivel Inicial.",
+      "Campus Cochabamba: Zona Jaihuayco, Esquina Teniente Monasterios, Final Ayopaya N. 1308",
+      "Email: met.aeronautica.0423@gmail.com"
+    ],
+    "map": {
+      "src": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3780.000463401777!2d-66.16654289323915!3d-17.3930091750143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sbo!4v1685160358656!5m2!1ses!2sbo",
+      "width": "600",
+      "height": "450",
+      "allowfullscreen": "",
+      "loading": "lazy",
+      "referrerpolicy": "no-referrer-when-downgrade"
+    }
+  },
+
+  "video": [
     {
-      "imagetitle": "Estratos - ST",
-      "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-      "imagefile": "ST.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"comentario 1", "file":"image22.jpg"}
-      ]
-    },
-    {
-      "imagetitle": "Estratocúmulos - SC",
-      "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-      "imagefile": "SC.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"Tomada por: Franz Jaime Ayaviri, Fecha: 06/05/23, Hora: 16:30 HBO - 20:30 UTC, Lugar de captura: Cerca al Instituto Nacional de Aviación Civil", "file":"SC-1.jpg"},
-        { "title":"Descripción", "comment":"Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco", "file":"SC-2.jpg"}
-      ]
-    },
-    {
-      "imagetitle": "Cúmulos - CU",
-      "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-      "imagefile": "CU.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"Tomada por: Oriana Arce Gualeve, Fecha: 23/01/23, Hora: 17:30 HBO - 21:30 UTC, Lugar de captura: Cerca al aeropuerto de Cochabamba (Jorge Wilsterman)", "file":"CU-1.jpg"}
-      ]
-    },
-    {
-      "imagetitle": "Cumulonimbos - CB",
-      "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-      "imagefile": "CB2.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"Tomada por: Jorge Jaime Gongora, Fecha: 05/05/23, Hora: 16:00 HBO - 20:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Centro de Cochabamba C/Oquendo.Esq/Bolívar. Tipo de nube: CB del tipo 2", "file":"CB-1.jpg"},
-        { "title":"Descripción", "comment":"Tomada por: Miguel Angel Mitma Morales, Fecha: 05/05/23, Hora: 14:35 HBO - 18:35 UTC, Dirección de las nubes: Del S hacia el N, Lugar de captura: Z/Sud OTB mineros San Juan", "file":"CB-2.jpg"},
-        { "title":"Descripción", "comment":"Tomada por: Miguel Angel Mitma Morales, Fecha: 08/05/23, Hora: 14:50 HBO - 20:50 UTC, Dirección de las nubes: Del S hacia el NW, Lugar de captura: Z/Sud OTB mineros San Juan, Tipo de nube: CB del tipo 2", "file":"CB-3.jpg"},
-        { "title":"Descripción", "comment":"Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Dirección de las nubes: Del E hacia el W, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco", "file":"CB-4.jpg"}
-      ]
-    },
-    {
-      "imagetitle": "Nimbostratos - NS",
-      "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
-      "imagefile": "NS.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"comentario 1", "file":"image22.jpg"}
-      ]
-    },
-    {
-      "imagetitle": "Altoestratos - AS",
-      "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
-      "imagefile": "AS2.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"comentario 1", "file":"image22.jpg" }
-      ]
-    },
-    {
-      "imagetitle": "Altocúmulos - AC",
-      "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
-      "imagefile": "AC.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11:30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen", "file":"AC-1.jpg"}
-      ]
-    },
-    {
-      "imagetitle": "Cirrus - CI",
-      "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-      "imagefile": "CI.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"comentario 1", "file":"image22.jpg"}
-      ]
-    },
-    {
-      "imagetitle": "Cirrostratos - CS",
-      "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-      "imagefile": "CS.jpg",
-      "imageimages": [
-        { "title":"Descripción","comment":"Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari", "file":"cs-1.jpg"}
-      ]
-    },
-    {
-      "imagetitle": "Cirrocúmulos - CC",
-      "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-      "imagefile": "CC.jpg",
-      "imageimages": [
-        { "title":"Descripción", "comment":"Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17:00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil", "file":"CC-1.jpg"}
-        
-      ]
+      "videotitle": "INAC - Bautiso",
+      "videocomment": "Bautiso inac 2023 Meteorología Aeronáutica",
+      "video": {
+        "title": "YouTube video player",
+        "src": "https://www.youtube.com/embed/NWvwuJ5O5XE",
+        "width": "560",
+        "height": "315"
+      }
     }
   ]
 }
