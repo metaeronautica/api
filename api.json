@@ -56,7 +56,7 @@
       {
         "imagetitle": "Estratos - ST",
         "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-        "imagefile": "images3/ST.jpg",
+        "imagefile": "IMAGEN3/NST/ST.jpg",
         "imageimages": [
           {
             "title": "Descripción",
@@ -148,12 +148,12 @@
       {
         "imagetitle": "Altocúmulos - AC",
         "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
-        "imagefile": "IAMGEN3/NAC/AC.jpg",
+        "imagefile": "IMAGEN3/NAC/AC.jpg",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11:30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen",
-            "file": "IAMGEN3/NAC/AC-1.jpg"
+            "file": "IMAGEN3/NAC/AC-1.jpg"
           }
         ]
       },
