@@ -172,24 +172,24 @@
       {
         "imagetitle": "Cirrostratos - CS",
         "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-        "imagefile": "IMAGEN3/CS/CS.jpg",
+        "imagefile": "IMAGEN3/NCS/CS.jpg",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari",
-            "file": "IMAGEN3/CS/cs-1.jpg"
+            "file": "IMAGEN3/NCS/cs-1.jpg"
           }
         ]
       },
       {
         "imagetitle": "Cirrocúmulos - CC",
         "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-        "imagefile": "IMAGEN3/CC/CC.jpg",
+        "imagefile": "IMAGEN3/NCC/CC.jpg",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17:00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil",
-            "file": "IMAGEN3/CC/CC-1.jpg"
+            "file": "IMAGEN3/NCC/CC-1.jpg"
           }
         ]
       }
