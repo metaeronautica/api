@@ -22,22 +22,27 @@
       {
         "imagetitle": "ESTUDIANTES DE LA CARRERA TÉCNICO EN METEOROLOGIA AERONÁUTICA INICIAL CLASE IV",
         "imagecomment": "Fotografía en el Instituto Nacional de Aviación Civil",
-        "imagefile": "IMAGEN1/IM-7.jpg"
+        "imagefile": "IMAGEN1/P1.jpg"
+      },
+      {
+        "imagetitle": "DÍA DEL BAUTIZO A LOS ESTUDIANTES DE LA CARRERA DE METEOROLOGÍA",
+        "imagecomment": "",
+        "imagefile": "IMAGEN1/P2.jpg"
       },
       {
         "imagetitle": "DÍA DEL BAUTIZO A LOS ESTUDIANTES DE LA CARRERA DE METEOROLOGÍA",
         "imagecomment": "Un dia de confraternización con los amigos",
-        "imagefile": "IMAGEN1/IM-6.jpg"
+        "imagefile": "IMAGEN1/P3.jpg"
       },
       {
         "imagetitle": "SALIDA DE PARA REALIZAR EL FOD",
         "imagecomment": "Salida para realizar busqueda de objetos peligrosos para las aeronaves",
-        "imagefile": "IMAGEN1/IM-8.jpg"
+        "imagefile": "IMAGEN1/P4.jpg"
       },
       {
         "imagetitle": "SALIDA A LA ESTACION METEOROLÓGICA",
         "imagecomment": "Visita a la estación meteorológica, para las indicaciones del instructor.  ",
-        "imagefile": "IMAGEN1/IM-10.jpg"
+        "imagefile": "IMAGEN1/P5.png"
       }
     ],
     "images2": [
@@ -140,8 +145,8 @@
         "imageimages": [
           {
             "title": "Descripción",
-            "comment": "comentario 1",
-            "file": "IMAGEN3/NAS/image22.jpg"
+            "comment": "Fotografiada por: Jhona Israel Acebey Ruescas, Hora: 12:19 HBO - 16:19 UTC",
+            "file": "IMAGEN3/NAS/AS3.jpg"
           }
         ]
       },
@@ -154,6 +159,71 @@
             "title": "Descripción",
             "comment": "Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11:30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen",
             "file": "IMAGEN3/NAC/AC-1.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 15:37 HBO - 19:37 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-2.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:39 HBO - 20:38 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-3.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:57 HBO - 20:57 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-4.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:53 HBO - 19:53 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-5.jpeg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:00 HBO - 21:00 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-6.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:06 HBO - 21:06 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-7.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21:35 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-8.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21:35 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-9.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:21 HBO - 19:21 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-10.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:36 HBO - 21:36 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-11.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:26 HBO - 14:26 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-12.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 12:10 HBO - 14:10 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-13.jpg"
+          },
+          {
+            "title": "Descripción",
+            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:19 HBO - 14:19 UTC, Lugar de captura:",
+            "file": "IMAGEN3/NAC/AC-14.jpg"
           }
         ]
       },
