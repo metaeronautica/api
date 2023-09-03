@@ -22,244 +22,219 @@
       {
         "imagetitle": "ESTUDIANTES DE LA CARRERA TÉCNICO EN METEOROLOGIA AERONÁUTICA INICIAL CLASE IV",
         "imagecomment": "Fotografía en el Instituto Nacional de Aviación Civil",
-        "imagefile": "IMAGEN1/P1.jpg"
-      },
-      {
-        "imagetitle": "DÍA DEL BAUTIZO A LOS ESTUDIANTES DE LA CARRERA DE METEOROLOGÍA",
-        "imagecomment": "",
-        "imagefile": "IMAGEN1/P2.jpg"
+        "imagefile": "images1/IM-7.jpg"
       },
       {
         "imagetitle": "DÍA DEL BAUTIZO A LOS ESTUDIANTES DE LA CARRERA DE METEOROLOGÍA",
         "imagecomment": "Un dia de confraternización con los amigos",
-        "imagefile": "IMAGEN1/P3.jpg"
+        "imagefile": "images1/IM-6.jpg"
       },
       {
         "imagetitle": "SALIDA DE PARA REALIZAR EL FOD",
         "imagecomment": "Salida para realizar busqueda de objetos peligrosos para las aeronaves",
-        "imagefile": "IMAGEN1/P4.jpg"
+        "imagefile": "images1/IM-8.jpg"
       },
       {
         "imagetitle": "SALIDA A LA ESTACION METEOROLÓGICA",
         "imagecomment": "Visita a la estación meteorológica, para las indicaciones del instructor.  ",
-        "imagefile": "IMAGEN1/P5.png"
+        "imagefile": "images1/IM-10.jpg"
       }
     ],
     "images2": [
       {
         "imagetitle": "MET. Dardo Melgar Roca",
         "imagecomment": "Responsable Meteorología INAC",
-        "imagefile": "IMAGEN2/dardo.jpg"
+        "imagefile": "images2/image21.jpg",
+        "filetype": "image"
       },
       {
         "imagetitle": "LIC AER. Luis Ticona Patzi",
         "imagecomment": "Instructor de la carrera de Meteorología",
-        "imagefile": "IMAGEN2/ticona.jpg"
+        "imagefile": "images2/image22.jpg"
       }
     ],
     "images3": [
       {
-        "imagetitle": "Estratos - ST",
-        "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-        "imagefile": "IMAGEN3/NST/ST.jpg",
+        "imagetitle": "video de pruab",
+        "imagecomment": "comentario de prubea",
+        "imagefile": "https://www.youtube.com/embed/pQbAA1wOwNY",
+        "filetype":"video",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "comentario 1",
-            "file": "IMAGEN3/NST/image22.jpg"
+            "file": "images3/images3/image22.jpg",
+            "filetype":"image"
+          },
+          {
+            "title": "Descripción",
+            "comment": "comentario 1",
+            "file": "https://www.youtube.com/embed/pQbAA1wOwNY",
+            "filetype":"video"
+          }
+        ]
+      },
+      {
+        "imagetitle": "Estratos - ST",
+        "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
+        "imagefile": "images3/ST.jpg",
+        "filetype":"image",
+        "imageimages": [
+          {
+            "title": "Descripción",
+            "comment": "comentario 1",
+            "file": "images3/images3/image22.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Estratocúmulos - SC",
         "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-        "imagefile": "IMAGEN3/NSC/SC.jpg",
+        "imagefile": "images3/SC.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Franz Jaime Ayaviri, Fecha: 06/05/23, Hora: 16:30 HBO - 20:30 UTC, Lugar de captura: Cerca al Instituto Nacional de Aviación Civil",
-            "file": "IMAGEN3/NSC/SC-1.jpg"
+            "file": "images3/SC-1.jpg",
+            "filetype":"image"
           },
           {
             "title": "Descripción",
             "comment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
-            "file": "IMAGEN3/NSC/SC-2.jpg"
+            "file": "images3/SC-2.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Cúmulos - CU",
         "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-        "imagefile": "IMAGEN3/NCU/CU.jpg",
+        "imagefile": "images3/CU.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Oriana Arce Gualeve, Fecha: 23/01/23, Hora: 17:30 HBO - 21:30 UTC, Lugar de captura: Cerca al aeropuerto de Cochabamba (Jorge Wilsterman)",
-            "file": "IMAGEN3/NCU/CU-1.jpg"
+            "file": "images3/images3/CU-1.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Cumulonimbos - CB",
         "imagecomment": "Nubes bajas, desde 0 a 2.000 metros",
-        "imagefile": "IMAGEN3/NCB/CB2.jpg",
+        "imagefile": "images3/CB2.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Jorge Jaime Gongora, Fecha: 05/05/23, Hora: 16:00 HBO - 20:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Centro de Cochabamba C/Oquendo.Esq/Bolívar. Tipo de nube: CB del tipo 2",
-            "file": "IMAGEN3/NCB/CB-1.jpg"
+            "file": "images3/CB-1.jpg",
+            "filetype":"image"
           },
           {
             "title": "Descripción",
             "comment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 05/05/23, Hora: 14:35 HBO - 18:35 UTC, Dirección de las nubes: Del S hacia el N, Lugar de captura: Z/Sud OTB mineros San Juan",
-            "file": "IMAGEN3/NCB/CB-2.jpg"
+            "file": "images3/CB-2.jpg",
+            "filetype":"image"
           },
           {
             "title": "Descripción",
             "comment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 08/05/23, Hora: 14:50 HBO - 20:50 UTC, Dirección de las nubes: Del S hacia el NW, Lugar de captura: Z/Sud OTB mineros San Juan, Tipo de nube: CB del tipo 2",
-            "file": "IMAGEN3/NCB/CB-3.jpg"
+            "file": "images3/CB-3.jpg",
+            "filetype":"image"
           },
           {
             "title": "Descripción",
             "comment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Dirección de las nubes: Del E hacia el W, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
-            "file": "IMAGEN3/NCB/CB-4.jpg"
+            "file": "images3/CB-4.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Nimbostratos - NS",
         "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
-        "imagefile": "IMAGEN3/NNS/NS.jpg",
+        "imagefile": "images3/NS.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "comentario 1",
-            "file": "IMAGEN3/NNS/image22.jpg"
+            "file": "images3/image22.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Altoestratos - AS",
         "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
-        "imagefile": "IMAGEN3/NAS/AS2.jpg",
+        "imagefile": "images3/AS2.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
-            "comment": "Fotografiada por: Jhona Israel Acebey Ruescas, Hora: 12:19 HBO - 16:19 UTC",
-            "file": "IMAGEN3/NAS/AS3.jpg"
+            "comment": "comentario 1",
+            "file": "images3/image22.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Altocúmulos - AC",
         "imagecomment": "Nubes medias, desde 2.000 a 6.000 metros",
-        "imagefile": "IMAGEN3/NAC/AC.jpg",
+        "imagefile": "images3/AC.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11:30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen",
-            "file": "IMAGEN3/NAC/AC-1.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 15:37 HBO - 19:37 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-2.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:39 HBO - 20:38 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-3.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:57 HBO - 20:57 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-4.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:53 HBO - 19:53 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-5.jpeg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:00 HBO - 21:00 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-6.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:06 HBO - 21:06 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-7.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21:35 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-8.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21:35 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-9.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:21 HBO - 19:21 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-10.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:36 HBO - 21:36 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-11.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:26 HBO - 14:26 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-12.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 12:10 HBO - 14:10 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-13.jpg"
-          },
-          {
-            "title": "Descripción",
-            "comment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:19 HBO - 14:19 UTC, Lugar de captura:",
-            "file": "IMAGEN3/NAC/AC-14.jpg"
+            "file": "images3/AC-1.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Cirrus - CI",
         "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-        "imagefile": "IMAGEN3/NCI/CI.jpg",
+        "imagefile": "images3/CI.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "comentario 1",
-            "file": "IMAGEN3/NCI/image22.jpg"
+            "file": "images3/image22.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Cirrostratos - CS",
         "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-        "imagefile": "IMAGEN3/NCS/CS.jpg",
+        "imagefile": "images3/CS.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari",
-            "file": "IMAGEN3/NCS/cs-1.jpg"
+            "file": "images3/cs-1.jpg",
+            "filetype":"image"
           }
         ]
       },
       {
         "imagetitle": "Cirrocúmulos - CC",
         "imagecomment": "Nubes altas, por encima de los 6.000 metros",
-        "imagefile": "IMAGEN3/NCC/CC.jpg",
+        "imagefile": "images3/CC.jpg",
+        "filetype":"image",
         "imageimages": [
           {
             "title": "Descripción",
             "comment": "Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17:00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil",
-            "file": "IMAGEN3/NCC/CC-1.jpg"
+            "file": "images3/CC-1.jpg",
+            "filetype":"image"
           }
         ]
       }
