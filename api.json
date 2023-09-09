@@ -79,7 +79,7 @@
           {
             "datatitle": "Document Title PDF",
             "datacomment": "Comment PDF",
-            "datafile": "documentos/archivo.pdf",
+            "datafile": "doc/nubes_1.pdf",
             "datatype": "document"
           }
         ]
@@ -87,7 +87,7 @@
       {
         "datatitle": "Archivo",
         "datacomment": "Descricpion Archivo",
-        "datafile": "documentos/archivo.pdf",
+        "datafile": "doc/nubes_1.pdf",
         "datatype": "document",
         "datadata": []
       },
