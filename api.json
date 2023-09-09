@@ -62,19 +62,19 @@
         "datatitle": "Video",
         "datacomment": "Comentario de Video",
         "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
-        "datatype":"video",
+        "datatype": "video",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "comentario 1",
             "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
-            "datatype":"video"
+            "datatype": "video"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "comentario 1",
             "datafile": "IMAGEN3/NST/image22.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Document Title PDF",
@@ -85,16 +85,23 @@
         ]
       },
       {
+        "datatitle": "Archivo",
+        "datacomment": "Descricpion Archivo",
+        "datafile": "documentos/archivo.pdf",
+        "datatype": "document",
+        "datadata": []
+      },
+      {
         "datatitle": "Estratos - ST",
         "datacomment": "Nubes bajas, desde 0 a 2.000 metros",
         "datafile": "IMAGEN3/NST/ST.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "comentario 1",
             "datafile": "IMAGEN3/NST/image22.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -102,19 +109,19 @@
         "datatitle": "Estratocúmulos - SC",
         "datacomment": "Nubes bajas, desde 0 a 2.000 metros",
         "datafile": "IMAGEN3/NSC/SC.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Franz Jaime Ayaviri, Fecha: 06/05/23, Hora: 16:30 HBO - 20:30 UTC, Lugar de captura: Cerca al Instituto Nacional de Aviación Civil",
             "datafile": "IMAGEN3/NSC/SC-1.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
             "datafile": "IMAGEN3/NSC/SC-2.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -122,13 +129,13 @@
         "datatitle": "Cúmulos - CU",
         "datacomment": "Nubes bajas, desde 0 a 2.000 metros",
         "datafile": "IMAGEN3/NCU/CU.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Oriana Arce Gualeve, Fecha: 23/01/23, Hora: 17:30 HBO - 21:30 UTC, Lugar de captura: Cerca al aeropuerto de Cochabamba (Jorge Wilsterman)",
             "datafile": "IMAGEN3/NCU/CU-1.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -136,31 +143,31 @@
         "datatitle": "Cumulonimbos - CB",
         "datacomment": "Nubes bajas, desde 0 a 2.000 metros",
         "datafile": "IMAGEN3/NCB/CB2.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Jorge Jaime Gongora, Fecha: 05/05/23, Hora: 16:00 HBO - 20:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Centro de Cochabamba C/Oquendo.Esq/Bolívar. Tipo de nube: CB del tipo 2",
             "datafile": "IMAGEN3/NCB/CB-1.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 05/05/23, Hora: 14:35 HBO - 18:35 UTC, Dirección de las nubes: Del S hacia el N, Lugar de captura: Z/Sud OTB mineros San Juan",
             "datafile": "IMAGEN3/NCB/CB-2.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 08/05/23, Hora: 14:50 HBO - 20:50 UTC, Dirección de las nubes: Del S hacia el NW, Lugar de captura: Z/Sud OTB mineros San Juan, Tipo de nube: CB del tipo 2",
             "datafile": "IMAGEN3/NCB/CB-3.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Dirección de las nubes: Del E hacia el W, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
             "datafile": "IMAGEN3/NCB/CB-4.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -168,13 +175,13 @@
         "datatitle": "Nimbostratos - NS",
         "datacomment": "Nubes medias, desde 2.000 a 6.000 metros",
         "datafile": "IMAGEN3/NNS/NS.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "comentario 1",
             "datafile": "IMAGEN3/NNS/image22.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -182,13 +189,13 @@
         "datatitle": "Altoestratos - AS",
         "datacomment": "Nubes medias, desde 2.000 a 6.000 metros",
         "datafile": "IMAGEN3/NAS/AS2.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Jhona Israel Acebey Ruescas, Hora: 12:19 HBO - 16:19 UTC",
             "datafile": "IMAGEN3/NAS/AS3.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -196,91 +203,91 @@
         "datatitle": "Altocúmulos - AC",
         "datacomment": "Nubes medias, desde 2.000 a 6.000 metros",
         "datafile": "IMAGEN3/NAC/AC.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11:30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen",
             "datafile": "IMAGEN3/NAC/AC-1.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 15:37 HBO - 19:37 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-2.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:39 HBO - 20:38 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-3.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:57 HBO - 20:57 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-4.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:53 HBO - 19:53 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-5.jpeg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:00 HBO - 21:00 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-6.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:06 HBO - 21:06 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-7.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21:35 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-8.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21:35 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-9.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:21 HBO - 19:21 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-10.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:36 HBO - 21:36 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-11.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:26 HBO - 14:26 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-12.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 12:10 HBO - 14:10 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-13.jpg",
-            "datatype":"image"
+            "datatype": "image"
           },
           {
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:19 HBO - 14:19 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-14.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -288,13 +295,13 @@
         "datatitle": "Cirrus - CI",
         "datacomment": "Nubes altas, por encima de los 6.000 metros",
         "datafile": "IMAGEN3/NCI/CI.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "comentario 1",
             "datafile": "IMAGEN3/NCI/image22.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -302,13 +309,13 @@
         "datatitle": "Cirrostratos - CS",
         "datacomment": "Nubes altas, por encima de los 6.000 metros",
         "datafile": "IMAGEN3/NCS/CS.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari",
             "datafile": "IMAGEN3/NCS/cs-1.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       },
@@ -316,13 +323,13 @@
         "datatitle": "Cirrocúmulos - CC",
         "datacomment": "Nubes altas, por encima de los 6.000 metros",
         "datafile": "IMAGEN3/NCC/CC.jpg",
-        "datatype":"image",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17:00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil",
             "datafile": "IMAGEN3/NCC/CC-1.jpg",
-            "datatype":"image"
+            "datatype": "image"
           }
         ]
       }
