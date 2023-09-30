@@ -89,7 +89,13 @@
         "datacomment": "Descricpion Archivo",
         "datafile": "doc/nubes_1.pdf",
         "datatype": "document",
-        "datadata": [{}]
+        "datadata": [{
+          "datatitle": " Documento1",
+          "datacomment":"Documento de la climatología", 
+          "datafile":"documents/RAB_93.pdf",
+          "datatype":"document"
+          
+        }]
       },
       {
         "datatitle": "Estratos - ST",
