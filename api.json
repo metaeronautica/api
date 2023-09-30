@@ -89,7 +89,7 @@
         "datacomment": "Descricpion Archivo",
         "datafile": "doc/nubes_1.pdf",
         "datatype": "document",
-        "datadata": []
+        "datadata": [{}]
       },
       {
         "datatitle": "Estratos - ST",
