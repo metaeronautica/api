@@ -156,6 +156,24 @@
             "datacomment": "Tomada por: Oriana Arce Gualeve, Fecha: 23/01/23, Hora: 17:30 HBO - 21:30 UTC, Lugar de captura: Cerca al aeropuerto de Cochabamba (Jorge Wilsterman)",
             "datafile": "IMAGEN3/NCU/CU-1.jpg",
             "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Carlos Andres Ramos Colque, Fecha: 08/09/23, Hora: 18:34 UTC, Dirección de la nube: N a S, Av. Rafael Pabón",
+            "datafile": "IMAGEN3/NCU/CU3.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "",
+            "datafile": "IMAGEN3/NCU/CU4.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "",
+            "datafile": "IMAGEN3/NCU/CU5.jpg",
+            "datatype": "image"
           }
         ]
       },
