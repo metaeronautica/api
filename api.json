@@ -2,7 +2,7 @@
   "urlapi": "https://meteorologiaaeronautica.github.io/api/api.json",
 
   "main": {
-    "title1": "Meteorología Aeronáutica - Dev. Ana Ramos",
+    "title1": "Meteorología Aeronáutica",
     "comment1": "La finalidad del servicio meteorológico aeronáutico consiste en contribuir a la seguridad, regularidad y eficiencia de la navegación aérea, para lograr esta finalidad, los observadores meteorológicos realizan un registro e interpretación de los diferentes fenómenos atmosféricos suscitados en los aeródromos para su posterior suministro a los usuarios.",
 
     "title2": "Personal Academico",
@@ -91,7 +91,7 @@
         "datatype": "document",
         "datadata": [{
           "datatitle": " Documento1",
-          "datacomment":"Documento de la climatología", 
+          "datacomment":"Documento de la RAB_93", 
           "datafile":"documents/RAB_93.pdf",
           "datatype":"document"
           
