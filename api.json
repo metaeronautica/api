@@ -44,12 +44,12 @@
       {
         "imagetitle": "MET. Dardo Melgar Roca",
         "imagecomment": "Responsable Meteorología INAC",
-        "imagefile": "IMAGEN2/dardo.jpg"
+        "imagefile": "IMAGEN2/pwefil2.jpg"
       },
       {
         "imagetitle": "LIC AER. Luis Ticona Patzi",
         "imagecomment": "Instructor de la carrera de Meteorología",
-        "imagefile": "IMAGEN2/ticona.jpg"
+        "imagefile": "IMAGEN2/Perfil2.jpg"
       }
     ],
     "images3": [
@@ -541,8 +541,8 @@
       {
         "datatitle": "Video",
         "datacomment": "Comentario de Video",
-        "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
-        "datatype": "video",
+        "datafile": "IMAGEN3/NCC/VI.jpg",
+        "datatype": "image",
         "datadata": [
           {
             "datatitle": "Descripción",
@@ -550,9 +550,15 @@
             "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
             "datatype": "video"
           },
+          
           {"datatitle": " Altocúmulos",
           "datacomment":"video de alto cumulos La Paz", 
           "datafile":"https://www.youtube.com/embed/M5OfTt9LTQQ",
+          "datatype":"video"
+          },
+          {"datatitle": " Altocúmulos",
+          "datacomment":"video de alto cumulos La Paz", 
+          "datafile":"https://www.youtube.com/embed/pQbAA1wOwNY",
           "datatype":"video"
           },
           {
