@@ -233,6 +233,42 @@
             "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 06/08/23, Hora: 20 00 UTC, Dirección de la nube: Hacia el Este, Tipo de nube: CU",
             "datafile": "IMAGEN3/NCU/41CU.jpg",
             "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Carla Araceli Andrade Chura, Fecha: 17/08/23, Hora: 20 00 UTC, Dirección de la nube: W, Tipo de nube: CU",
+            "datafile": "IMAGEN3/NCU/42CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Carla Araceli Andrade Chura, Fecha: 27/07/23, Hora: 16 00 UTC, Dirección de la nube: , Tipo de nube: CU y AC",
+            "datafile": "IMAGEN3/NCU/43CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Jhona Israel Acebey Ruescas",
+            "datafile": "IMAGEN3/NCU/44CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Jhona Israel Acebey Ruescas",
+            "datafile": "IMAGEN3/NCU/45TCU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Jhona Israel Acebey Ruescas",
+            "datafile": "IMAGEN3/NCU/46CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Jhona Israel Acebey Ruescas",
+            "datafile": "IMAGEN3/NCU/47CU.jpg",
+            "datatype": "image"
           }
         ]
       },
