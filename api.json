@@ -525,7 +525,7 @@
       },
        {
         "datatitle": "Archivo",
-        "datacomment": "Descricpion Archivo",
+        "datacomment": "Documentos necesarios para la meteorología aeronáutica",
         "datafile": "doc/nubes_1.pdf",
         "datatype": "document",
         "datadata": [
@@ -554,7 +554,7 @@
       },
       {
         "datatitle": "Video",
-        "datacomment": "Comentario de Video",
+        "datacomment": "Videos sobre la formacion de nubes en Cochabamba",
         "datafile": "IMAGEN3/NCC/V4.jpg",
         "datatype": "image",
         "datadata": [
