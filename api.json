@@ -558,13 +558,6 @@
         "datafile": "IMAGEN3/NCC/V4.jpg",
         "datatype": "image",
         "datadata": [
-          {
-            "datatitle": "Descripción",
-            "datacomment": "comentario 1",
-            "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
-            "datatype": "video"
-          },
-          
           {"datatitle": " Altocúmulos",
           "datacomment":"video de Altocumulos  AC La Paz", 
           "datafile":"https://www.youtube.com/embed/M5OfTt9LTQQ",
