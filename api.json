@@ -535,13 +535,27 @@
           "datafile":"documents/RAB_93.pdf",
           "datatype":"document"
           
+        },
+          {
+          "datatitle": " Documento1",
+          "datacomment":"Documento sobre el Manual PMET", 
+          "datafile":"documents/Manual_PMET.pdf",
+          "datatype":"document"
+          
+        },
+          {
+          "datatitle": " Documento1",
+          "datacomment":"Documento sobre el Tema Nubes", 
+          "datafile":"documents/Nubes_Rev2022.pdf",
+          "datatype":"document"
+          
         }
         ]
       },
       {
         "datatitle": "Video",
         "datacomment": "Comentario de Video",
-        "datafile": "IMAGEN3/NCC/V2.png",
+        "datafile": "IMAGEN3/NCC/V3.jpg",
         "datatype": "image",
         "datadata": [
           {
