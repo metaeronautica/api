@@ -161,6 +161,12 @@
             "datacomment": "",
             "datafile": "IMAGEN3/NCU/CU5.jpg",
             "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Carla Araceli Andrade Chura, Fecha: 31/08/23, Hora: 14:51 UTC, Dirección de la nube: Sur",
+            "datafile": "IMAGEN3/NCU/NTCU.jpg",
+            "datatype": "image"
           }
         ]
       },
@@ -312,6 +318,12 @@
             "datatitle": "Descripción",
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:19 HBO - 14:19 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-14.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Carlos Andrés Ramos Colque, Fecha: 06/09/2023, Hora: 12:00 UTC, Lugar de captura:Av. Rafael Pabón, Dirección de la nube: E a W",
+            "datafile": "IMAGEN3/NAC/25AC.jpg",
             "datatype": "image"
           }
         ]
