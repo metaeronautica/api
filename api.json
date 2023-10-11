@@ -525,7 +525,7 @@
       },
        {
         "datatitle": "Archivo",
-        "datacomment": "Documentos necesarios para la meteorología aeronáutica",
+        "datacomment": "Documentos para el aprendizaje",
         "datafile": "doc/nubes_1.pdf",
         "datatype": "document",
         "datadata": [
@@ -554,7 +554,7 @@
       },
       {
         "datatitle": "Video",
-        "datacomment": "Videos sobre la formacion de nubes en Cochabamba",
+        "datacomment": "Videos de nubes en Cochabamba",
         "datafile": "IMAGEN3/NCC/V4.jpg",
         "datatype": "image",
         "datadata": [
@@ -566,20 +566,14 @@
           },
           
           {"datatitle": " Altocúmulos",
-          "datacomment":"video de alto cumulos La Paz", 
+          "datacomment":"video de Altocumulos  AC La Paz", 
           "datafile":"https://www.youtube.com/embed/M5OfTt9LTQQ",
           "datatype":"video"
           },
-          {"datatitle": " Altocúmulos",
-          "datacomment":"video de alto cumulos La Paz", 
+          {"datatitle": " Altocúmulos y Cirros",
+          "datacomment":"video de Altocumulos  AC Cochabamba", 
           "datafile":"https://www.youtube.com/embed/pQbAA1wOwNY",
           "datatype":"video"
-          },
-          {
-            "datatitle": "Descripción",
-            "datacomment": "comentario 1",
-            "datafile": "https://www.youtube.com/embed/M5OfTt9LTQQ",
-            "datatype": "video"
           }
         ]
       }
