@@ -59,46 +59,6 @@
     ],
     "images3": [
       {
-        "datatitle": "Video",
-        "datacomment": "Comentario de Video",
-        "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
-        "datatype": "video",
-        "datadata": [
-          {
-            "datatitle": "Descripción",
-            "datacomment": "comentario 1",
-            "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
-            "datatype": "video"
-          },
-          {"datatitle": " Altocúmulos",
-          "datacomment":"video de alto cumulos La Paz", 
-          "datafile":"https://www.youtube.com/embed/M5OfTt9LTQQ",
-          "datatype":"video"
-          },
-          {
-            "datatitle": "Descripción",
-            "datacomment": "comentario 1",
-            "datafile": "https://www.youtube.com/embed/M5OfTt9LTQQ",
-            "datatype": "video"
-          }
-        ]
-      },
-      {
-        "datatitle": "Archivo",
-        "datacomment": "Descricpion Archivo",
-        "datafile": "doc/nubes_1.pdf",
-        "datatype": "document",
-        "datadata": [
-          {
-          "datatitle": " Documento1",
-          "datacomment":"Documento de la RAB_93", 
-          "datafile":"documents/RAB_93.pdf",
-          "datatype":"document"
-          
-        }
-        ]
-      },
-      {
         "datatitle": "Estratos - ST",
         "datacomment": "Nubes bajas, desde 0 a 2.000 metros",
         "datafile": "IMAGEN3/NST/ST.jpg",
@@ -146,6 +106,24 @@
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 03/09/23, Hora: 14 35 UTC, Dirección de la nube: Sur",
             "datafile": "IMAGEN3/NSC/37SC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Joel Henry Cortez Fuentes",
+            "datafile": "IMAGEN3/NSC/49SC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Joel Henry Cortez Fuentes",
+            "datafile": "IMAGEN3/NSC/54SC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Joel Henry Cortez Fuentes, Fecha: 03/09/23, Hora: 18 06 hrs, Dirección de la nube: N/S",
+            "datafile": "IMAGEN3/NSC/57SC.jpg",
             "datatype": "image"
           }
         ]
@@ -269,6 +247,24 @@
             "datacomment": "Tomada por: Jhona Israel Acebey Ruescas",
             "datafile": "IMAGEN3/NCU/47CU.jpg",
             "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Joel Henry Cortez Fuentes",
+            "datafile": "IMAGEN3/NCU/48CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Joel Henry Cortez Fuentes, Tipo de nubes: Fractucumulos",
+            "datafile": "IMAGEN3/NCU/51FCU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Joel Henry Cortez Fuentes, Fecha:09/10/2023, Hora: 13:03 hrs Dirección de la nube: NE/SW",
+            "datafile": "IMAGEN3/NCU/59CU.jpg",
+            "datatype": "image"
           }
         ]
       },
@@ -300,6 +296,12 @@
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12 00 UTC, Dirección de las nubes: Del E hacia el W, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
             "datafile": "IMAGEN3/NCB/CB-4.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Joel Henry Cortez Fuentes, Fecha: 12/09/2023, Dirección de las nubes: E/W",
+            "datafile": "IMAGEN3/NCB/56VIR.jpg",
             "datatype": "image"
           }
         ]
@@ -445,6 +447,24 @@
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Fecha: 20/09/2023, Hora: 19 25 UTC, Dirección de la nube: W",
             "datafile": "IMAGEN3/NAC/30AC.jpg",
             "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Joel Henry Cortez Fuentes",
+            "datafile": "IMAGEN3/NAC/53AC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Joel Henry Cortez Fuentes, Fecha: 07/05/2023, Hora: 06:45 hrs, Dirección de la nube: W/E",
+            "datafile": "IMAGEN3/NAC/55AC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Joel Henry Cortez Fuentes, Fecha: 04/09/2023, Hora: 07:08 hrs, Dirección de la nube: W/E",
+            "datafile": "IMAGEN3/NAC/58AC.jpg",
+            "datatype": "image"
           }
         ]
       },
@@ -465,6 +485,12 @@
             "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Fecha: /09/2023, Hora: 18 34 UTC, Dirección de la nube: W",
             "datafile": "IMAGEN3/NCI/36CI.jpg",
             "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Joel Henry Cortez Fuentes",
+            "datafile": "IMAGEN3/NCI/52CI.jpg",
+            "datatype": "image"
           }
         ]
       },
@@ -478,6 +504,12 @@
             "datatitle": "Descripción",
             "datacomment": "Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19 00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari",
             "datafile": "IMAGEN3/NCS/cs-1.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Henry Cortez",
+            "datafile": "IMAGEN3/NCS/50CS.jpg",
             "datatype": "image"
           }
         ]
@@ -493,6 +525,46 @@
             "datacomment": "Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17 00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil",
             "datafile": "IMAGEN3/NCC/CC-1.jpg",
             "datatype": "image"
+          }
+        ]
+      },
+       {
+        "datatitle": "Archivo",
+        "datacomment": "Descricpion Archivo",
+        "datafile": "doc/nubes_1.pdf",
+        "datatype": "document",
+        "datadata": [
+          {
+          "datatitle": " Documento1",
+          "datacomment":"Documento de la RAB_93", 
+          "datafile":"documents/RAB_93.pdf",
+          "datatype":"document"
+          
+        }
+        ]
+      },
+      {
+        "datatitle": "Video",
+        "datacomment": "Comentario de Video",
+        "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
+        "datatype": "video",
+        "datadata": [
+          {
+            "datatitle": "Descripción",
+            "datacomment": "comentario 1",
+            "datafile": "https://www.youtube.com/embed/pQbAA1wOwNY",
+            "datatype": "video"
+          },
+          {"datatitle": " Altocúmulos",
+          "datacomment":"video de alto cumulos La Paz", 
+          "datafile":"https://www.youtube.com/embed/M5OfTt9LTQQ",
+          "datatype":"video"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "comentario 1",
+            "datafile": "https://www.youtube.com/embed/M5OfTt9LTQQ",
+            "datatype": "video"
           }
         ]
       }
