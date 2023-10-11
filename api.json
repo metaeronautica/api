@@ -120,14 +120,32 @@
         "datadata": [
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Franz Jaime Ayaviri, Fecha: 06/05/23, Hora: 16:30 HBO - 20:30 UTC, Lugar de captura: Cerca al Instituto Nacional de Aviación Civil",
+            "datacomment": "Tomada por: Franz Jaime Ayaviri, Fecha: 06/05/23, Hora: 16:30 HBO - 20 30 UTC, Lugar de captura: Cerca al Instituto Nacional de Aviación Civil",
             "datafile": "IMAGEN3/NSC/SC-1.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
+            "datacomment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12 00 UTC, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
             "datafile": "IMAGEN3/NSC/SC-2.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 12/09/23, Hora: 08:00 HBO - 21 19 UTC, Dirección de la nube: Norte",
+            "datafile": "IMAGEN3/NSC/32SC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 12/09/23, Hora: 21 16 UTC, Dirección de la nube: NW",
+            "datafile": "IMAGEN3/NSC/33SC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 03/09/23, Hora: 14 35 UTC, Dirección de la nube: Sur",
+            "datafile": "IMAGEN3/NSC/37SC.jpg",
             "datatype": "image"
           }
         ]
@@ -140,32 +158,80 @@
         "datadata": [
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Oriana Arce Gualeve, Fecha: 23/01/23, Hora: 17:30 HBO - 21:30 UTC, Lugar de captura: Cerca al aeropuerto de Cochabamba (Jorge Wilsterman)",
+            "datacomment": "Tomada por: Oriana Arce Gualeve, Fecha: 23/01/23, Hora: 17:30 HBO - 21 30 UTC, Lugar de captura: Cerca al aeropuerto de Cochabamba (Jorge Wilsterman), Tipo de nube: CU",
             "datafile": "IMAGEN3/NCU/CU-1.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Carlos Andres Ramos Colque, Fecha: 08/09/23, Hora: 18:34 UTC, Dirección de la nube: N a S, Av. Rafael Pabón",
+            "datacomment": "Tomada por: Carlos Andres Ramos Colque, Fecha: 08/09/23, Hora: 18 34 UTC, Dirección de la nube: N a S, Av. Rafael Pabón, Tipo de nube: CU",
             "datafile": "IMAGEN3/NCU/CU3.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "",
+            "datacomment": "Fotografiada por: Ana Gabriela Ramos, Lugar: La Paz Viacha",
             "datafile": "IMAGEN3/NCU/CU4.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "",
+            "datacomment": "Fotografiado por: Ana Gabriela Ramos Tito, Lugar: La Paz Viacha",
             "datafile": "IMAGEN3/NCU/CU5.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Carla Araceli Andrade Chura, Fecha: 31/08/23, Hora: 14:51 UTC, Dirección de la nube: Sur",
+            "datacomment": "Tomada por: Carla Araceli Andrade Chura, Fecha: 31/08/23, Hora: 14 51 UTC, Dirección de la nube: Sur, tipo de nube: TCU",
             "datafile": "IMAGEN3/NCU/NTCU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Franz Jaime Ayaviri, Fecha: 10/10/23, Hora: 1700Z, Dirección de la nube: Norte, Tipo de nube: TCU",
+            "datafile": "IMAGEN3/NCU/27TCU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: /23, Hora: 17 07 UTC, Dirección de la nube: NW, Tipo de nube: TCU",
+            "datafile": "IMAGEN3/NCU/28TCU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 20/09/23, Hora: 19 21 UTC, Dirección de la nube: W, Tipo de nube: CU",
+            "datafile": "IMAGEN3/NCU/31CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 12/09/23, Hora: 19 57 UTC, Dirección de la nube: SW, Tipo de nube: CU",
+            "datafile": "IMAGEN3/NCU/34CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 06/08/23, Hora: 20 56 UTC, Dirección de la nube: , Tipo de nube: CU",
+            "datafile": "IMAGEN3/NCU/38CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 06/08/23, Hora: 21 17 UTC, Dirección de la nube: W, Tipo de nube: CU",
+            "datafile": "IMAGEN3/NCU/39CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 06/08/23, Hora: 20 40 UTC, Dirección de la nube: hacia el SW, Tipo de nube: CU",
+            "datafile": "IMAGEN3/NCU/40CU.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 06/08/23, Hora: 20 00 UTC, Dirección de la nube: Hacia el Este, Tipo de nube: CU",
+            "datafile": "IMAGEN3/NCU/41CU.jpg",
             "datatype": "image"
           }
         ]
@@ -178,25 +244,25 @@
         "datadata": [
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Jorge Jaime Gongora, Fecha: 05/05/23, Hora: 16:00 HBO - 20:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Centro de Cochabamba C/Oquendo.Esq/Bolívar. Tipo de nube: CB del tipo 2",
+            "datacomment": "Tomada por: Jorge Jaime Gongora, Fecha: 05/05/23, Hora: 16:00 HBO - 20 00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Centro de Cochabamba C/Oquendo.Esq/Bolívar. Tipo de nube: CB del tipo 2",
             "datafile": "IMAGEN3/NCB/CB-1.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 05/05/23, Hora: 14:35 HBO - 18:35 UTC, Dirección de las nubes: Del S hacia el N, Lugar de captura: Z/Sud OTB mineros San Juan",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 05/05/23, Hora: 14:35 HBO - 18 35 UTC, Dirección de las nubes: Del S hacia el N, Lugar de captura: Z/Sud OTB mineros San Juan",
             "datafile": "IMAGEN3/NCB/CB-2.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 08/05/23, Hora: 14:50 HBO - 20:50 UTC, Dirección de las nubes: Del S hacia el NW, Lugar de captura: Z/Sud OTB mineros San Juan, Tipo de nube: CB del tipo 2",
+            "datacomment": "Tomada por: Miguel Angel Mitma Morales, Fecha: 08/05/23, Hora: 14:50 HBO - 20 50 UTC, Dirección de las nubes: Del S hacia el NW, Lugar de captura: Z/Sud OTB mineros San Juan, Tipo de nube: CB del tipo 2",
             "datafile": "IMAGEN3/NCB/CB-3.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12:00 UTC, Dirección de las nubes: Del E hacia el W, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
+            "datacomment": "Tomada por: Carlos Andres Ramos, Fecha: 02/05/23, Hora: 08:00 HBO - 12 00 UTC, Dirección de las nubes: Del E hacia el W, Lugar de captura: Rafael Pabón y Ayopaya OTB Jaihuayco",
             "datafile": "IMAGEN3/NCB/CB-4.jpg",
             "datatype": "image"
           }
@@ -224,7 +290,7 @@
         "datadata": [
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Jhona Israel Acebey Ruescas, Hora: 12:19 HBO - 16:19 UTC",
+            "datacomment": "Fotografiada por: Jhona Israel Acebey Ruescas, Hora: 12 19 HBO - 16:19 UTC",
             "datafile": "IMAGEN3/NAS/AS3.jpg",
             "datatype": "image"
           }
@@ -238,92 +304,110 @@
         "datadata": [
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11:30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen",
+            "datacomment": "Tomada por: Carlos Rodriguez - Isai Peña, Fecha: 10/05/23, Hora: 07:30 HBO - 11 30 UTC, Lugar de captura: Al Sur/Zona Nueva Jerusalen",
             "datafile": "IMAGEN3/NAC/AC-1.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 15:37 HBO - 19:37 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 15:37 HBO - 19 37 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-2.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:39 HBO - 20:38 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:39 HBO - 20 38 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-3.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:57 HBO - 20:57 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:57 HBO - 20 57 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-4.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:53 HBO - 19:53 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:53 HBO - 19 53 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-5.jpeg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:00 HBO - 21:00 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:00 HBO - 21 00 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-6.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:06 HBO - 21:06 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:06 HBO - 21 06 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-7.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21:35 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21 35 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-8.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21:35 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 17:35 HBO - 21 35 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-9.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:21 HBO - 19:21 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 16:21 HBO - 19 21 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-10.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:36 HBO - 21:36 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 18:36 HBO - 21 36 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-11.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:26 HBO - 14:26 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:26 HBO - 14 26 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-12.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 12:10 HBO - 14:10 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 12:10 HBO - 14 10 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-13.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:19 HBO - 14:19 UTC, Lugar de captura:",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Hora: 10:19 HBO - 14 19 UTC, Lugar de captura:",
             "datafile": "IMAGEN3/NAC/AC-14.jpg",
             "datatype": "image"
           },
           {
             "datatitle": "Descripción",
-            "datacomment": "Fotografiada por: Carlos Andrés Ramos Colque, Fecha: 06/09/2023, Hora: 12:00 UTC, Lugar de captura:Av. Rafael Pabón, Dirección de la nube: E a W",
+            "datacomment": "Fotografiada por: Carlos Andrés Ramos Colque, Fecha: 06/09/2023, Hora: 12 00 UTC, Lugar de captura:Av. Rafael Pabón, Dirección de la nube: E a W",
             "datafile": "IMAGEN3/NAC/25AC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Franz Jaime Ayaviri, Fecha: 06/09/2023, Hora: 12 30 UTC, Dirección de la nube: Noreste",
+            "datafile": "IMAGEN3/NAC/26AC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Fecha: 20/09/2023, Hora: 19 52 UTC, Dirección de la nube: W",
+            "datafile": "IMAGEN3/NAC/29AC.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Fecha: 20/09/2023, Hora: 19 25 UTC, Dirección de la nube: W",
+            "datafile": "IMAGEN3/NAC/30AC.jpg",
             "datatype": "image"
           }
         ]
@@ -336,8 +420,14 @@
         "datadata": [
           {
             "datatitle": "Descripción",
-            "datacomment": "comentario 1",
-            "datafile": "IMAGEN3/NCI/image22.jpg",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Fecha: 04/09/2023, Hora: 18 46 UTC, Dirección de la nube: W",
+            "datafile": "IMAGEN3/NCI/35CI.jpg",
+            "datatype": "image"
+          },
+          {
+            "datatitle": "Descripción",
+            "datacomment": "Fotografiada por: Miguel Angel Mitma Morales, Fecha: /09/2023, Hora: 18 34 UTC, Dirección de la nube: W",
+            "datafile": "IMAGEN3/NCI/36CI.jpg",
             "datatype": "image"
           }
         ]
@@ -350,7 +440,7 @@
         "datadata": [
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19:00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari",
+            "datacomment": "Tomada por: Henry Cortez, Fecha: 07/05/23, Hora: 15:00 HBO - 19 00 UTC, Dirección de las nubes: Del SE hacia el NW, Lugar de captura: Parque Tunari",
             "datafile": "IMAGEN3/NCS/cs-1.jpg",
             "datatype": "image"
           }
@@ -364,7 +454,7 @@
         "datadata": [
           {
             "datatitle": "Descripción",
-            "datacomment": "Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17:00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil",
+            "datacomment": "Tomada por: Carla Andrade Chura, Fecha: 10/05/23, Hora: 13:00 HBO - 17 00 UTC, Lugar de captura: Salida del Instituto Nacional de Aviación Civil",
             "datafile": "IMAGEN3/NCC/CC-1.jpg",
             "datatype": "image"
           }
